@@ -1,4 +1,4 @@
-## Selam! Ben [Hüseyin Kenan Bildik] 👋
+## Selam! ### Ben Hüseyin Kenan Bildik 👋
 
 Yazılım geliştirme ve nesnelerin interneti (IoT) teknolojilerine ilgi duyuyorum ve kendimi bu alanlarda geliştirmeye çalışıyorum. 
 
